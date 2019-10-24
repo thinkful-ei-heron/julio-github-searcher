@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/julio-github-searcher/static/css/main.7c182a69.chunk.css",
+    "main.js": "/julio-github-searcher/static/js/main.c70d9387.chunk.js",
+    "main.js.map": "/julio-github-searcher/static/js/main.c70d9387.chunk.js.map",
+    "runtime-main.js": "/julio-github-searcher/static/js/runtime-main.862482a1.js",
+    "runtime-main.js.map": "/julio-github-searcher/static/js/runtime-main.862482a1.js.map",
+    "static/js/2.49df413d.chunk.js": "/julio-github-searcher/static/js/2.49df413d.chunk.js",
+    "static/js/2.49df413d.chunk.js.map": "/julio-github-searcher/static/js/2.49df413d.chunk.js.map",
+    "index.html": "/julio-github-searcher/index.html",
+    "precache-manifest.2dce7f3ba1c6f1d86c54cedfcde4131f.js": "/julio-github-searcher/precache-manifest.2dce7f3ba1c6f1d86c54cedfcde4131f.js",
+    "service-worker.js": "/julio-github-searcher/service-worker.js",
+    "static/css/main.7c182a69.chunk.css.map": "/julio-github-searcher/static/css/main.7c182a69.chunk.css.map",
+    "static/media/videoplayback.webm": "/julio-github-searcher/static/media/videoplayback.3176ac7d.webm"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.862482a1.js",
+    "static/js/2.49df413d.chunk.js",
+    "static/css/main.7c182a69.chunk.css",
+    "static/js/main.c70d9387.chunk.js"
+  ]
+}
